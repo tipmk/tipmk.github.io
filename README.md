@@ -2,7 +2,7 @@ Processo Seletivo - Programador PHP
 
 1) Criar um banco de dados para receber os dados do usuário
  
- a. O banco de dados precisa conter tabelas para armazenar as informações abaixo:
+ 	a. O banco de dados precisa conter tabelas para armazenar as informações abaixo:
   Nome; 
   Email; 
   Telefone; 
