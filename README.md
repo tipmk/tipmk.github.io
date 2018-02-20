@@ -1,6 +1,6 @@
 # Processo Seletivo - Programador PHP
 
-Todo código de interface necessário no teste, ja esta pronto.
+OBS: Todo código de interface necessário no teste, ja esta pronto.
 
 1) Criar um banco de dados para receber os dados do usuário 
  	
@@ -49,6 +49,7 @@ Todo código de interface necessário no teste, ja esta pronto.
 
  	c. Mostrar mensagem de confirmação de update;
 
-OBS: Junto com o teste, enviar também o DUMP do banco de dados criado
+
+3) Junto com o teste, enviar também o DUMP do banco de dados criado
 
 Boa sorte!
