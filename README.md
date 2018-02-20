@@ -1,4 +1,4 @@
-#Processo Seletivo - Programador PHP
+# Processo Seletivo - Programador PHP
 
 1) Criar um banco de dados para receber os dados do usuário 
  	
@@ -48,7 +48,8 @@
  	c. Mostrar mensagem de confirmação de update;
 
  
-	
+Atenção: Todos os HTMLs necessários ja estão prontos.
+
 OBS: Junto com o teste, enviar também o DUMP do banco de dados criado
 
 Boa sorte!
