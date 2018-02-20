@@ -1,5 +1,7 @@
 # Processo Seletivo - Programador PHP
 
+# Os html necessários ja estão prontos
+
 1) Criar um banco de dados para receber os dados do usuário 
  	
 	a. O banco de dados precisa conter tabelas para armazenar as informações abaixo:
@@ -46,9 +48,6 @@
  	b. O formulario deverá fazer o update por ajax;
 
  	c. Mostrar mensagem de confirmação de update;
-
- 
-Atenção: Todos os HTMLs necessários ja estão prontos.
 
 OBS: Junto com o teste, enviar também o DUMP do banco de dados criado
 
