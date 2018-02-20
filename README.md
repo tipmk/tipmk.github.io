@@ -1,6 +1,6 @@
 # Processo Seletivo - Programador PHP
 
-Todo código de interface necessário no teste, ja estão prontos.
+Todo código de interface necessário no teste, ja esta pronto.
 
 1) Criar um banco de dados para receber os dados do usuário 
  	
