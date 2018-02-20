@@ -1,6 +1,6 @@
 # Processo Seletivo - Programador PHP
 
-# Os html necessários ja estão prontos
+Os html necessários ja estão prontos
 
 1) Criar um banco de dados para receber os dados do usuário 
  	
